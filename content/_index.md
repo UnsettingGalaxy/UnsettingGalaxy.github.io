@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: 软件复用开发组
+      text: 北京大学软件复用开发组官方网站
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/details/docs/
