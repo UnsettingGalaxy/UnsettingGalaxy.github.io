@@ -80,6 +80,11 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
 related:
   threshold: 80
   includeNewer: true
