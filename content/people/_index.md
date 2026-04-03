@@ -6,10 +6,6 @@ summary: 实验室成员
 toc: false
 ---
 
-# People
-
-这里展示实验室成员，并提供跳转到对应发表的链接。
-
 ## 吴健雄 {#wu-jianxiong}
 
 - 职称：Professor

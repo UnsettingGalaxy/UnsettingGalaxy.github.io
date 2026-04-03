@@ -7,12 +7,12 @@ sections:
   - block: hero
     content:
       title: 软件复用开发组
-      text: 北京大学软件复用开发组官方网站
+      text: 北京大学软件复用开发组官网
       primary_action:
-        text: 查看发表
+        text: 研究成果
         url: /publications/
       secondary_action:
-        text: 查看成员
+        text: 成员介绍
         url: /people/
     design:
       spacing:
