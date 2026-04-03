@@ -1,9 +1,7 @@
 ---
 title: 研究成果
 date: 2026-04-02
-type: docs
 summary: 代表性论文与成果
-toc: false
 ---
 
 以下列出部分代表性成果。

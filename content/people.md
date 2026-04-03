@@ -1,9 +1,7 @@
 ---
 title: 成员
 date: 2026-04-02
-type: docs
 summary: 团队成员
-toc: false
 ---
 
 团队现有教师与博士生如下。
@@ -12,7 +10,7 @@ toc: false
 
 - 职称：教授
 - 研究方向：软件复用、程序分析、智能软件工程
-- 相关发表：[Reusable Software Platform for Large-Scale Systems](/publications/#reusable-software-platform), [Cross-Project Component Mining with LLM Assistance](/publications/#cross-project-component-mining)
+- 相关发表：[Reusable Software Platform for Large-Scale Systems](/publications/#reusable-software-platform)、[Cross-Project Component Mining with LLM Assistance](/publications/#cross-project-component-mining)
 
 ## 李明 {#li-ming}
 
