@@ -2,12 +2,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
-    weight: 10
-  - name: Publications
+  - name: 研究成果
     url: /publications/
-    weight: 20
-  - name: People
+    weight: 10
+  - name: 成员
     url: /people/
-    weight: 30
+    weight: 20
